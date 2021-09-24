@@ -18,6 +18,4 @@ Contents
 
 .. toctree::
 
-   usage
-   api
    python_guide
