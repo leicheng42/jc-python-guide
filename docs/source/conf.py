@@ -25,6 +25,10 @@ intersphinx_mapping = {
 }
 intersphinx_disabled_domains = ['std']
 
+latex_documents = [
+    ('documentation', 'manual', False),
+]
+
 templates_path = ['_templates']
 
 # -- Options for HTML output
